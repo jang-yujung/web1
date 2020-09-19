@@ -1,0 +1,49 @@
+.box-wrapper {
+  width: 100%;
+  display: flex;
+}
+
+.box {
+  flex: 1;
+  height: 50px;
+}
+
+.box-margin {
+  margin-bottom: 20px;
+}
+
+.box1 {
+  background-color: rgb(245, 42, 42);
+}
+
+.box2 {
+  background-color: orange;
+}
+
+.box3 {
+  background-color: darksalmon;
+}
+
+.box4 {
+  background-color: rgba(192, 242, 118, 0.652);
+}
+
+.box5 {
+  background-color: blueviolet;
+}
+
+.box6 {
+  background-color: coral;
+}
+
+.box7 {
+  background-color: lightsalmon;
+}
+
+.box8 {
+  background-color: blanchedalmond;
+}
+
+.box9 {
+  background-color: crimson;
+}
